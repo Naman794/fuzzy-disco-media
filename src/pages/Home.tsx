@@ -126,7 +126,7 @@ const INDUSTRIES_DATA = [
     name: "B2B",
     info: "Accelerating B2B outreach with data-driven acquisition strategies.",
     image:
-      "https://static.vecteezy.com/system/resources/thumbnails/037/486/076/small/b2b-business-to-business-digital-marketing-commerce-shopping-internet-network-virtual-screen-photo.jpg",
+      "https://ibb.co/zWjGg1pN",
   },
   {
     name: "E-Commerce",
